@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA73D0B-CE30-4524-BE4C-AFF1ED0F0012}|Main\\Main.csproj|c:\\users\\harit\\onedrive\\documents\\tel-u sem 4\\tp kpl\\kpl_gui\\main\\data\\dataakun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BA73D0B-CE30-4524-BE4C-AFF1ED0F0012}|Main\\Main.csproj|solutionrelative:main\\data\\dataakun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA73D0B-CE30-4524-BE4C-AFF1ED0F0012}|Main\\Main.csproj|c:\\users\\harit\\onedrive\\documents\\tel-u sem 4\\tp kpl\\kpl_gui\\main\\data\\datamenu.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BA73D0B-CE30-4524-BE4C-AFF1ED0F0012}|Main\\Main.csproj|solutionrelative:main\\data\\datamenu.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA73D0B-CE30-4524-BE4C-AFF1ED0F0012}|Main\\Main.csproj|c:\\users\\harit\\onedrive\\documents\\tel-u sem 4\\tp kpl\\kpl_gui\\main\\data\\datapesanan.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BA73D0B-CE30-4524-BE4C-AFF1ED0F0012}|Main\\Main.csproj|solutionrelative:main\\data\\datapesanan.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|solutionrelative:view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|c:\\users\\harit\\onedrive\\documents\\tel-u sem 4\\tp kpl\\kpl_gui\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA73D0B-CE30-4524-BE4C-AFF1ED0F0012}|Main\\Main.csproj|C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\main\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA73D0B-CE30-4524-BE4C-AFF1ED0F0012}|Main\\Main.csproj|solutionrelative:main\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|solutionrelative:view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA73D0B-CE30-4524-BE4C-AFF1ED0F0012}|Main\\Main.csproj|C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA73D0B-CE30-4524-BE4C-AFF1ED0F0012}|Main\\Main.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|solutionrelative:view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\view\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|solutionrelative:view\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\view\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|solutionrelative:view\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|solutionrelative:view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\view\\reporttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|solutionrelative:view\\reporttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\view\\deleteorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|solutionrelative:view\\deleteorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\view\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E21BE54-F6BC-4AEC-A895-A416BC815681}|View\\View.csproj|solutionrelative:view\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dataPesanan.json",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\Main\\Data\\dataPesanan.json",
+              "RelativeDocumentMoniker": "Main\\Data\\dataPesanan.json",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\Main\\Data\\dataPesanan.json",
+              "RelativeToolTip": "Main\\Data\\dataPesanan.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T07:56:40.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dataMenu.json",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\Main\\Data\\dataMenu.json",
+              "RelativeDocumentMoniker": "Main\\Data\\dataMenu.json",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\Main\\Data\\dataMenu.json",
+              "RelativeToolTip": "Main\\Data\\dataMenu.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T07:54:55.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dataAkun.json",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\Main\\Data\\dataAkun.json",
+              "RelativeDocumentMoniker": "Main\\Data\\dataAkun.json",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\Main\\Data\\dataAkun.json",
+              "RelativeToolTip": "Main\\Data\\dataAkun.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T07:40:50.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\Login.cs",
+              "RelativeDocumentMoniker": "View\\Login.cs",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\Login.cs [Design]",
+              "RelativeToolTip": "View\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:25:24.1Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\Login.cs",
+              "RelativeDocumentMoniker": "View\\Login.cs",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\Login.cs",
+              "RelativeToolTip": "View\\Login.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:59:33.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\Register.cs",
+              "RelativeDocumentMoniker": "View\\Register.cs",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\Register.cs",
+              "RelativeToolTip": "View\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:05:23.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\Register.cs",
+              "RelativeDocumentMoniker": "View\\Register.cs",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\Register.cs [Design]",
+              "RelativeToolTip": "View\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:37:45.237Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Akun.cs",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\Main\\Model\\Akun.cs",
+              "RelativeDocumentMoniker": "Main\\Model\\Akun.cs",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\Main\\Model\\Akun.cs",
+              "RelativeToolTip": "Main\\Model\\Akun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:26:59.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\Homepage.cs",
+              "RelativeDocumentMoniker": "View\\Homepage.cs",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\Homepage.cs",
+              "RelativeToolTip": "View\\Homepage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:08:14.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\MenuManager.cs",
+              "RelativeDocumentMoniker": "View\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\MenuManager.cs",
+              "RelativeToolTip": "View\\MenuManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:11:31.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\Main\\Program.cs",
+              "RelativeDocumentMoniker": "Main\\Program.cs",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\Main\\Program.cs",
+              "RelativeToolTip": "Main\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:25:36.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Homepage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\Homepage.cs",
+              "RelativeDocumentMoniker": "View\\Homepage.cs",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\Homepage.cs [Design]",
+              "RelativeToolTip": "View\\Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:57:47.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\MenuManager.cs",
+              "RelativeDocumentMoniker": "View\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\MenuManager.cs [Design]",
+              "RelativeToolTip": "View\\MenuManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:40:27.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReportTransaction.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\ReportTransaction.cs",
+              "RelativeDocumentMoniker": "View\\ReportTransaction.cs",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\ReportTransaction.cs [Design]",
+              "RelativeToolTip": "View\\ReportTransaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T18:04:28.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\CreateOrder.cs",
+              "RelativeDocumentMoniker": "View\\CreateOrder.cs",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\CreateOrder.cs [Design]",
+              "RelativeToolTip": "View\\CreateOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:52:02.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\DeleteOrder.cs",
+              "RelativeDocumentMoniker": "View\\DeleteOrder.cs",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\KPL_GUI\\View\\DeleteOrder.cs [Design]",
+              "RelativeToolTip": "View\\DeleteOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T18:04:02.485Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
